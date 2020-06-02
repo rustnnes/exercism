@@ -44,6 +44,8 @@ local.properties
 .loadpath
 .recommenders
 
+build/
+
 # External tool builders
 .externalToolBuilders/
 
@@ -131,6 +133,7 @@ local.properties
 
 # Gradle
 **/.gradle
+gradlew.bat
 # .idea/**/gradle.xml
 # .idea/**/libraries
 
